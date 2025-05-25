@@ -1,0 +1,23 @@
+
+     <!-- Ventana de Popup de registro: -->
+     <div id="registerPopup" class="popup-overlay">
+        <div class="popup-container">
+            <button class="popup-close">&times;</button>
+            <h2 class="popup-title">Registro</h2>
+            <form action="../upload_client.php" method="post" class="popup-form">
+                <input type="hidden" name="tipo_ejecucion" value="crear">
+                <input type="text" placeholder="Nombres" id="nombre" name="nombre" required>
+                <input type="text" placeholder="Apellidos" id="apellidos" name="apellidos" required>
+                <input type="email" placeholder="Email" id="email" name="email" required>
+                <label for="role">Tipo Cliente:</label>
+                <select class="product-select" id="tipo_cliente" name="tipo_cliente" required>
+                    <option value="4">Nuevo</option>
+                    <option value="1">Permanente</option>
+                    <option value="2">Periódico</option>
+                    <option value="3">Casual</option>
+                </select><br>
+                <button type="submit">Registrarse</button>
+            </form>
+        </div>
+    </div>
+    

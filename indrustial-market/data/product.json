@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 2
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 5
+    },
+    {
+        "nombre": "Destornillador",
+        "descuento": true,
+        "valor_descuento": 15,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 25000,
+        "calificacion": 3
+    },
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 4
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 5
+    },
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 4
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 2
+    },
+    {
+        "nombre": "Destornillador",
+        "descuento": true,
+        "valor_descuento": 15,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 25000,
+        "calificacion": 3
+    },
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 4
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 5
+    },
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 4
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 5
+    },
+    {
+        "nombre": "Destornillador",
+        "descuento": true,
+        "valor_descuento": 15,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 25000,
+        "calificacion": 3
+    },
+    {
+        "nombre": "Tornillos de Acero",
+        "descuento": true,
+        "valor_descuento": 20,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 49000,
+        "calificacion": 5
+    },
+    {
+        "nombre": "Tuercas de Acero",
+        "descuento": false,
+        "valor_descuento": 0,
+        "imagen": "../assets/img/tornillodeacero.webp",
+        "valor_producto": 30000,
+        "calificacion": 1
+    }
+]
